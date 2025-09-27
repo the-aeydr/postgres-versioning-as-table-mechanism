@@ -1,0 +1,8 @@
+SPDXVersion: SPDX-2.0
+SPDX-License-Identifier: LicenseRef-LICENSE.md
+Creator: aeydr
+PackageOriginator: aeydr
+PackageLicenseDeclared: LicenseRef-LICENSE.md
+
+PackageName: postgres-versioning-as-table-mechanism
+PackageHomePage: https://github.com/theaeydr/postgres-versioning-as-table-mechanism/
