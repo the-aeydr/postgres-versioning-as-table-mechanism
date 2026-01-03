@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: postgres-versioning-as-table-mechanism
+  description: Using triggers, key generators and a second table for delete/restore functionality
+  tags:
+    - postgres
+    - postgres
+  annotations:
+    displayName: Postgres Delete/Restore by Table Properties
+    github.com/project-slug: the-aeydr/postgres-versioning-as-table-mechanism
+spec:
+  type: documentation
+  lifecycle: experimental
