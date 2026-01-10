@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this article, please cite it as below."
+
+version: 1.0.0
+date-released: 2023-08-12
+title: "Postgres Delete/Restore by Table Properties"
+url: "https://writing.aeydr.dev/notes/postgres-versioning-as-table-mechanism"
+authors:
+- given-names: "aeydr"
+
+preferred-citation:
+  type: article
+  journal: "The Architectural Decision Record"
+  authors:
+  - given-names: "aeydr"
+
+  title: "Postgres Delete/Restore by Table Properties"
+  month: 08
+  year: 2023
